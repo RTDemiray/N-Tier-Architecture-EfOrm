@@ -1,0 +1,12 @@
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\bin\Debug\netcoreapp3.1\App.Core.deps.json
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\bin\Debug\netcoreapp3.1\App.Core.dll
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\bin\Debug\netcoreapp3.1\App.Core.pdb
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\bin\Debug\netcoreapp3.1\App.Data.dll
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\bin\Debug\netcoreapp3.1\App.Data.pdb
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.csprojAssemblyReference.cache
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.AssemblyInfo.cs
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.csproj.CopyComplete
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.dll
+C:\Users\recep\source\repos\N-Tier-Architecture-EfOrm\App.Core\obj\Debug\netcoreapp3.1\App.Core.pdb
