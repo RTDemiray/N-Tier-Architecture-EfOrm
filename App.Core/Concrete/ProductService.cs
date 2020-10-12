@@ -3,6 +3,7 @@ using App.Data;
 using App.Data.EntityFramework;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace App.Core.Concrete
@@ -15,7 +16,7 @@ namespace App.Core.Concrete
 
         public async Task<List<Products>> GetProductsWithCategories(int id)
         {
-            return await _context.Products.Include(x => x.Categories).ToListAsync();
+            return await _context.Products.Where(x => x.Id == id).Include(x => x.Categories).ToListAsync();
         }
     }
 }
